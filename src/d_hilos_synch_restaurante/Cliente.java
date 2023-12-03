@@ -1,4 +1,13 @@
 package d_hilos_synch_restaurante;
+/*
+ * Gestión de Reservas en un Restaurante
+ * 
+ * Desarrollar un programa en Java que simule un sistema de reservas en un restaurante. 
+ * Los clientes intentarán hacer reservas en el restaurante. Deberás emplear mecanismos 
+ * de sincronización para gestionar las reservas y evitar conflictos, como la sobreocupación 
+ * o reservas duplicadas, incluyendo la identificación de cada cliente en el proceso.
+ * 
+ */
 
 /**
  * Clase que representa a un cliente intentando hacer una reserva en el restaurante.
