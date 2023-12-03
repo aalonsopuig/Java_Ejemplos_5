@@ -6,12 +6,9 @@ package c_hilos_synch_CarreraCamellos;
  */
 class Camello extends Thread {
 
-    // Carrera en la que el camello compite.
-    private final CarreraCamellos carrera;
-    // Identificador del camello.
-    private final int idCamello;
-    // Posición actual del camello en la pista.
-    private int posicion;
+    private final CarreraCamellos carrera;  // Carrera en la que el camello compite.
+    private final int idCamello;    // Identificador del camello.
+    private int posicion;   // Posición actual del camello en la pista.
 
     /**
      * Constructor para el camello.
@@ -42,7 +39,7 @@ class Camello extends Thread {
                 e.printStackTrace();
             }
         }
-        System.out.println("Camello " + idCamello + " ha cruzado la meta!");
+        carrera.cruzarMeta(idCamello);
     }
 
     /**
@@ -51,7 +48,6 @@ class Camello extends Thread {
      * @return Número de posiciones que avanza el camello.
      */
     private int avanzar() {
-        // Aquí se podría implementar lógica para avance aleatorio o basado en características del camello.
         return 1 + (int)(Math.random() * 5);
     }
 }
