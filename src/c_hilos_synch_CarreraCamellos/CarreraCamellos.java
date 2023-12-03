@@ -1,9 +1,13 @@
 package c_hilos_synch_CarreraCamellos;
 
-/**
- * La clase CarreraCamellos simula una carrera de camellos.
- * Cada camello es representado por un hilo que avanza en la pista de carrera.
+/*
+ * Carrera de Camellos Virtual
+ * Desarrollar un programa en Java que simule una carrera de camellos. 
+ * Cada camello será representado por un hilo que avanza a lo largo de una pista. 
+ * Deberás utilizar mecanismos de sincronización para controlar el acceso a la línea de meta 
+ * y asegurar que solo un camello sea declarado ganador.
  */
+
 /**
  * La clase CarreraCamellos simula una carrera de camellos.
  * Cada camello es representado por un hilo que avanza en la pista de carrera.
