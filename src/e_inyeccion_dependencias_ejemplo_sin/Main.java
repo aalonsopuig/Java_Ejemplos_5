@@ -1,4 +1,4 @@
-package e_inyeccion_dependencias_ejemplo.Sin_inyeccion;
+package e_inyeccion_dependencias_ejemplo_sin;
 
 /* Ejemplo sin inyección. 
 *  La clase Coche crea una instancia de Motor directamente 

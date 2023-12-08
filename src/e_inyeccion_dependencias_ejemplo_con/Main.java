@@ -1,4 +1,4 @@
-package e_inyeccion_dependencias_ejemplo.Sin_inyeccion.Con_inyeccion;
+package e_inyeccion_dependencias_ejemplo_con;
 
 /* Ejemplo con inyección.  
  * Coche recibe un objeto Motor a través de su constructor. Esto reduce el 

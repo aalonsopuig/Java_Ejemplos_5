@@ -1,4 +1,4 @@
-package e_inyeccion_dependencias_ejemplo.Sin_inyeccion.Con_inyeccion;
+package e_inyeccion_dependencias_ejemplo_con;
 
 /**
  * Implementación de la interfaz Motor.

@@ -1,4 +1,4 @@
-package e_inyeccion_dependencias_ejemplo.Sin_inyeccion;
+package e_inyeccion_dependencias_ejemplo_sin;
 
 /**
  * Clase Motor, que representa el motor de un coche.

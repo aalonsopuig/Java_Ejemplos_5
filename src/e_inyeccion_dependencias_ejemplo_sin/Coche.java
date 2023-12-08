@@ -1,4 +1,4 @@
-package e_inyeccion_dependencias_ejemplo.Sin_inyeccion;
+package e_inyeccion_dependencias_ejemplo_sin;
 
 /**
  * Clase Coche, que representa un coche.
