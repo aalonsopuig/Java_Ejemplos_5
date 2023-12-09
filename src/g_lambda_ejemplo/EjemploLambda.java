@@ -1,7 +1,7 @@
-package g_lambda_ejemplo_con;
+package g_lambda_ejemplo;
 
 /*
- * Ejemplo básico de uso de expresionaes lambda donde utilizamos una expresión lambda 
+ * Ejemplo básico de uso de expresiones lambda donde utilizamos una expresión lambda 
  * para filtrar números pares de una lista.
  * 
  * Explicación:
